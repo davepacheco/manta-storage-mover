@@ -1,0 +1,9 @@
+- Find and figure out how to understand dependencies
+  - done: Bunyan logger
+  - done: JSON parser
+  - done: JSON stringifier
+  - HTTP server
+  - HTTP client
+  - DNS client?
+  - Prometheus exporter
+  - Command-line arguments

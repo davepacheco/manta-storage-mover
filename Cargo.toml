@@ -4,5 +4,8 @@ version = "0.1.0"
 authors = ["David Pacheco <dap@joyent.com>"]
 
 [dependencies]
-slog-bunyan = { version = "2.1.0" }
+serde = { version = "1.0.87" }
+serde_derive = { version = "1.0.87" }
+serde_json = { version = "1.0.38" }
 slog = { version = "2.0" }
+slog-bunyan = { version = "2.1.0" }
